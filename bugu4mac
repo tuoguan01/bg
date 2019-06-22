@@ -5,8 +5,8 @@
 		"ios_vercode_show": 0,
 		"title": "重要通知",
 		"content": "由于服务器出现故障，造成App无法使用，技术部正在紧急处理当中，如有不便敬请谅解",
-		"website": "http://www.bugu99.com",
-		"button": "我知道了",
+		"website": "",
+		"button": "知道了",
 		"domain": ""
 	}
 }
